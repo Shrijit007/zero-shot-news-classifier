@@ -1,0 +1,7 @@
+# CPU-oriented dependency set.
+# For the exact CPU wheel supported by your OS/Python, see:
+# https://pytorch.org/get-started/locally/
+torch>=2.2.0
+transformers>=4.45.0
+streamlit>=1.35.0
+pandas>=2.0.0

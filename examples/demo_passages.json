@@ -1,0 +1,50 @@
+[
+  {
+    "text": "The team won the final cricket match after a close contest.",
+    "label": "sports"
+  },
+  {
+    "text": "The company unveiled a faster processor for its next generation laptops.",
+    "label": "technology"
+  },
+  {
+    "text": "The parliament debated a new bill before the upcoming election.",
+    "label": "politics"
+  },
+  {
+    "text": "Teachers introduced a new science curriculum for secondary schools.",
+    "label": "education"
+  },
+  {
+    "text": "The football club signed a striker ahead of the national league season.",
+    "label": "sports"
+  },
+  {
+    "text": "Researchers developed a battery that charges electric vehicles more quickly.",
+    "label": "technology"
+  },
+  {
+    "text": "The minister announced a cabinet reshuffle during a press conference.",
+    "label": "politics"
+  },
+  {
+    "text": "The university expanded scholarships for first-generation college students.",
+    "label": "education"
+  },
+  {
+    "text": "A tennis player advanced to the semi-final after winning in straight sets.",
+    "label": "sports"
+  },
+  {
+    "text": "A cybersecurity update fixes vulnerabilities in a popular operating system.",
+    "label": "technology"
+  },
+  {
+    "text": "Voters will choose representatives in the municipal election next month.",
+    "label": "politics"
+  },
+  {
+    "text": "The school launched an online programme to help students learn mathematics.",
+    "label": "education"
+  }
+]
